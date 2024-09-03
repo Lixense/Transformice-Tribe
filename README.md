@@ -7,3 +7,5 @@
 - first start by creating new project in js using npm init -y
 - second install packages npm i axios cheeiro
 - third run the script with node index.js ENJOY !! 
+## EXAMPLES
+- you can found examples in the txt files i provided in the repo :D

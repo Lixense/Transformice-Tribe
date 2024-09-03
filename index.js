@@ -1,3 +1,8 @@
+// created By Lix#4300 
+// A tool for scraping informations and memebers from TFM tribes
+
+
+
 const axios = require('axios');
 const cheerio = require('cheerio');
 const readline = require('readline');

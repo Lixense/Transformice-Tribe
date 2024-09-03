@@ -1,5 +1,5 @@
 ## INFO 
-- A tool For scraping informations about Tribe written with Node.js by Lix#4300
+- A tool For scraping informations about Tribe in Node.js by Lix#4300
 ## CAPABLE
 - it can scrape all memebers from all pages automatically
 - informations such title + url + recu + date of creation
